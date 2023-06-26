@@ -1,4 +1,4 @@
-# N
+# Notes
 ```
 Options:
       --help         Show help                                         [boolean]
